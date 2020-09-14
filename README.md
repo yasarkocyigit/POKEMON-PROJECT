@@ -1,5 +1,5 @@
 # POKEMON-PROJECT
-this is my data science project
+This is my data science project
 In this project i will explain subject and then i will use that explaned subject with the example.
 
 -MATPLOTLIB
